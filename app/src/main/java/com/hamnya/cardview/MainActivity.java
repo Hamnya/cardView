@@ -1,6 +1,5 @@
 package com.hamnya.cardview;
 
-import android.support.v7.app.AlertController;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
